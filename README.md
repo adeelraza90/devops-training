@@ -15,3 +15,7 @@
 	High Speed – Quick Deployment.
 	Automatic Software Updates and Integration.
 	Efficiency and Cost Reduction.
+
+- Difference b/w Git & Github
+	Git is installed and maintained on local system rather than in the cloud and is focused on version control and code sharing. On the other hand Github is a service hosted on the web and is focused on centralized source code hosting.
+
