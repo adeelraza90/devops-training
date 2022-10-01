@@ -24,3 +24,8 @@
 	Staging Area: test env where code is ready to be sent in local repo
 	Local: repo of local PC where code is ready to be committed to remote repo
 	Remote: Local Repo of git where code pushed from local repo
+
+- 3 methods of git reset?
+	Soft: Revert Local to staging
+	Mixed: Revert Local to working directory
+	Hard:  Delete changes completely from local repo
