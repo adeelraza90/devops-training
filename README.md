@@ -19,3 +19,8 @@
 - Difference b/w Git & Github
 	Git is installed and maintained on local system rather than in the cloud and is focused on version control and code sharing. On the other hand Github is a service hosted on the web and is focused on centralized source code hosting.
 
+- Stages of Git
+	Working Directory: Where actual code resides in local PC
+	Staging Area: test env where code is ready to be sent in local repo
+	Local: repo of local PC where code is ready to be committed to remote repo
+	Remote: Local Repo of git where code pushed from local repo
