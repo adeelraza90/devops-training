@@ -1,1 +1,3 @@
 # devops-training
+- Agile vs DevOps
+	Agile focuses on cross-functional team communication and deploying constant iterative releases. DevOps focuses on uniting the Development and Operations teams in a continuous development process.Agile focuses on cross-functional team communication and deploying constant iterative releases. DevOps focuses on uniting the Development and Operations teams in a continuous development process.Agile focuses on cross-functional team communication and deploying constant iterative releases. DevOps focuses on uniting the Development and Operations teams in a continuous development process.
