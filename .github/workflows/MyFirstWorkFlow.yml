@@ -17,7 +17,7 @@ jobs:
         uses: docker/metadata-action@v4
         id: meta
         with:
-          images: adeelraza90/kalsym
+          images: adeelraza90/dice
           tags: |
             type=ref,event=branch
             type=ref,event=pr
