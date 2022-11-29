@@ -1,2 +1,2 @@
 From centos
-cmd ["echo","MyWorkflow"]
+cmd ["echo","MyWorkflowTest2"]
