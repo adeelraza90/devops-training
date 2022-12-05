@@ -45,7 +45,7 @@ jobs:
       - 
         name: Slack Notify
         uses: rtCamp/action-slack-notify@v2
-        if: failure()
+        #if: failure()
         env:
           SLACK_CHANNEL: devops-training
           SLACK_COLOR: ${{ job.status }}
